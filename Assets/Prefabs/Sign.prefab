@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4823948295430112433
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1829491565, guid: 8e8f926e45198d9478d6d2e15981ff38, type: 3}
+      propertyPath: text
+      value: Dangerous path ahead.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2833132795026218915, guid: 8e8f926e45198d9478d6d2e15981ff38,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2833132795026218915, guid: 8e8f926e45198d9478d6d2e15981ff38,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2833132795026218915, guid: 8e8f926e45198d9478d6d2e15981ff38,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2833132795026218915, guid: 8e8f926e45198d9478d6d2e15981ff38,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5363044700559552912, guid: 8e8f926e45198d9478d6d2e15981ff38,
+        type: 3}
+      propertyPath: m_Name
+      value: Sign
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8e8f926e45198d9478d6d2e15981ff38, type: 3}
