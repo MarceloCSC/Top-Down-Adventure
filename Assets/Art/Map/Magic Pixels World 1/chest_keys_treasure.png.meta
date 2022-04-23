@@ -135,7 +135,7 @@ TextureImporter:
       213: -9065759405274958260
     second: chest_keys_treasure_43
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -155,6 +155,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -164,8 +166,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -186,9 +188,13 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -1163,6 +1169,51 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      chest_keys_treasure_4: 4304104385445738616
+      chest_keys_treasure_19: 7596872884599424713
+      chest_keys_treasure_3: 1085908420720873
+      chest_keys_treasure_35: -1720089307448394622
+      chest_keys_treasure_1: -4096007860999850203
+      chest_keys_treasure_40: -694621254738588423
+      chest_keys_treasure_17: 6236630534242385151
+      chest_keys_treasure_41: -3305316228117672268
+      chest_keys_treasure_11: -4515040155403554927
+      chest_keys_treasure_36: 8285528304130816994
+      chest_keys_treasure_33: -8669036879869307119
+      chest_keys_treasure_12: -502570662205544945
+      chest_keys_treasure_38: 3767202028494109932
+      chest_keys_treasure_22: -7378270119241432372
+      chest_keys_treasure_0: -4233367853437289744
+      chest_keys_treasure_8: 293268656777977525
+      chest_keys_treasure_18: -818335286068941284
+      chest_keys_treasure_16: -6546783676618996650
+      chest_keys_treasure_20: 7470078636023061156
+      chest_keys_treasure_28: -7629800362676190923
+      chest_keys_treasure_14: 6666341811475112682
+      chest_keys_treasure_24: 2990907293867970574
+      chest_keys_treasure_34: -4339064744455927962
+      chest_keys_treasure_39: 3448629708041641615
+      chest_keys_treasure_10: 7259980493196515436
+      chest_keys_treasure_32: 4622512128209945238
+      chest_keys_treasure_6: 7927015682219589216
+      chest_keys_treasure_5: -2263129043563249313
+      chest_keys_treasure_29: 5304821075952282971
+      chest_keys_treasure_27: -2746042596371811759
+      chest_keys_treasure_23: -5375086260932729224
+      chest_keys_treasure_9: 5989006976349842705
+      chest_keys_treasure_7: 5304765581533298611
+      chest_keys_treasure_13: 2883391896762832231
+      chest_keys_treasure_43: -9065759405274958260
+      chest_keys_treasure_37: -2502851211204034615
+      chest_keys_treasure_15: -6837150377934684851
+      chest_keys_treasure_31: 7252922951698676671
+      chest_keys_treasure_25: 2981375606091243874
+      chest_keys_treasure_26: -5618495988461479372
+      chest_keys_treasure_21: -6563431671678933341
+      chest_keys_treasure_30: 3991014414382523211
+      chest_keys_treasure_42: 2339972603853184270
+      chest_keys_treasure_2: 3457359221622133173
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

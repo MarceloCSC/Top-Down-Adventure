@@ -6183,7 +6183,7 @@ TextureImporter:
       213: -6169495973455354500
     second: rocks_other_2059
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -6203,6 +6203,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -6212,8 +6214,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -6234,9 +6236,13 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -7127,6 +7133,47 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      rocks_other_1: 7095634567198739334
+      rocks_other_26: -3338696023311204037
+      rocks_other_19: -2788634259130053942
+      rocks_other_29: 5931282009964593477
+      rocks_other_7: 2894974420061315817
+      rocks_other_10: -6726001718563653419
+      rocks_other_33: 1742103160520497134
+      rocks_other_11: 2772066850890042269
+      rocks_other_35: -5767833229593048726
+      rocks_other_8: -7699639736828858857
+      rocks_other_18: 3947767010111782004
+      rocks_other_9: 3826920621148995288
+      rocks_other_15: -2247698557545867084
+      rocks_other_16: 6230565046936135709
+      rocks_other_4: 8257607720831995706
+      rocks_other_3: 3526116549585044828
+      rocks_other_22: -4466183560497855618
+      rocks_other_28: 2261974716050995520
+      rocks_other_6: -3902963041524536971
+      rocks_other_12: -8233559006145902424
+      rocks_other_14: 4321292322231993116
+      rocks_other_30: -1970024507229665601
+      rocks_other_17: 7411672591664357141
+      rocks_other_27: 8638879895263627717
+      rocks_other_31: 2342107506955610454
+      rocks_other_36: -74021122056746701
+      rocks_other_0: -3518392265732940087
+      rocks_other_24: 6943032586893507230
+      rocks_other_39: 62177516121330274
+      rocks_other_25: -6157853559776085131
+      rocks_other_2: -5294489863838031192
+      rocks_other_21: 3851099121168425090
+      rocks_other_5: -3000342001830181912
+      rocks_other_23: 6872282176844593518
+      rocks_other_37: -8974897091516645792
+      rocks_other_32: 3433541025892960675
+      rocks_other_38: 4264331175628646539
+      rocks_other_13: 7964139695761166022
+      rocks_other_20: -8233910956691609435
+      rocks_other_34: -5208695475569179748
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

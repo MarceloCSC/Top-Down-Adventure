@@ -69,7 +69,7 @@ TextureImporter:
       213: 6874660121327519725
     second: GlowingBall Blue 22frames RPG_21
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -89,6 +89,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -98,8 +100,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -120,9 +122,13 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -635,6 +641,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      GlowingBall Blue 22frames RPG_8: -673375387520642038
+      GlowingBall Blue 22frames RPG_18: 1212167244646709672
+      GlowingBall Blue 22frames RPG_14: 7424634660050224217
+      GlowingBall Blue 22frames RPG_6: -5418291442150918094
+      GlowingBall Blue 22frames RPG_2: 5710837510008490653
+      GlowingBall Blue 22frames RPG_0: 8744986193271972717
+      GlowingBall Blue 22frames RPG_3: 2415305299078049883
+      GlowingBall Blue 22frames RPG_12: 1584820021887067388
+      GlowingBall Blue 22frames RPG_19: 7244112579334000521
+      GlowingBall Blue 22frames RPG_4: -6097043135114402198
+      GlowingBall Blue 22frames RPG_15: 8112629073296120015
+      GlowingBall Blue 22frames RPG_13: 5719594929390269122
+      GlowingBall Blue 22frames RPG_1: -1980435644479716600
+      GlowingBall Blue 22frames RPG_16: -2278566551540450940
+      GlowingBall Blue 22frames RPG_5: -67588585965589443
+      GlowingBall Blue 22frames RPG_9: -1542528690884732705
+      GlowingBall Blue 22frames RPG_20: 8891658516047903467
+      GlowingBall Blue 22frames RPG_11: 4021792530584731900
+      GlowingBall Blue 22frames RPG_21: 6874660121327519725
+      GlowingBall Blue 22frames RPG_7: 852130634745285757
+      GlowingBall Blue 22frames RPG_17: -3299292528567496240
+      GlowingBall Blue 22frames RPG_10: -1482288518741702323
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

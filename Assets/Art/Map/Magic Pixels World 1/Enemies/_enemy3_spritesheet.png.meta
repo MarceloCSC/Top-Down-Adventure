@@ -63,7 +63,7 @@ TextureImporter:
       213: -4588840851748397051
     second: _enemy3_spritesheet_19
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -83,6 +83,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -92,8 +94,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -114,9 +116,13 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -587,6 +593,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      _enemy3_spritesheet_5: -7425712944480884506
+      _enemy3_spritesheet_15: 4794528368903136708
+      _enemy3_spritesheet_12: -1846751048846099985
+      _enemy3_spritesheet_8: 4512440758206790092
+      _enemy3_spritesheet_11: -6747201091188125605
+      _enemy3_spritesheet_2: 5215934264200859341
+      _enemy3_spritesheet_17: 2061405869943983701
+      _enemy3_spritesheet_19: -4588840851748397051
+      _enemy3_spritesheet_6: 3940167235997272686
+      _enemy3_spritesheet_0: 2401279093311959904
+      _enemy3_spritesheet_9: 2258708362263851083
+      _enemy3_spritesheet_4: 6191389824284065286
+      _enemy3_spritesheet_16: -8536803746813220240
+      _enemy3_spritesheet_3: 3063726433334233920
+      _enemy3_spritesheet_13: 4936674728224159068
+      _enemy3_spritesheet_7: -4586933263388292692
+      _enemy3_spritesheet_1: 4272114574555667545
+      _enemy3_spritesheet_10: -2010379866259051342
+      _enemy3_spritesheet_18: 534364009569528118
+      _enemy3_spritesheet_14: 1962568482846168309
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

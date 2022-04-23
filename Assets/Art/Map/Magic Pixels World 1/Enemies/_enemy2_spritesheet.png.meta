@@ -63,7 +63,7 @@ TextureImporter:
       213: 63513543967285709
     second: _enemy2_spritesheet_19
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -83,6 +83,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -92,8 +94,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -114,9 +116,13 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -587,6 +593,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      _enemy2_spritesheet_5: -231679045867092194
+      _enemy2_spritesheet_8: 2785132879759999050
+      _enemy2_spritesheet_3: 4927115221257479319
+      _enemy2_spritesheet_1: 2817024822717612898
+      _enemy2_spritesheet_12: 9157354518147880794
+      _enemy2_spritesheet_19: 63513543967285709
+      _enemy2_spritesheet_16: 330505136433437528
+      _enemy2_spritesheet_2: 6723357185415607933
+      _enemy2_spritesheet_4: 2228404921901277308
+      _enemy2_spritesheet_11: 6327114788833296015
+      _enemy2_spritesheet_13: 1573715996550577035
+      _enemy2_spritesheet_14: -8322002584076311538
+      _enemy2_spritesheet_17: 8362051130771828871
+      _enemy2_spritesheet_10: 780894051747769066
+      _enemy2_spritesheet_6: -5235354282543573328
+      _enemy2_spritesheet_15: -5396555005006581807
+      _enemy2_spritesheet_0: -8248672369352750912
+      _enemy2_spritesheet_18: -8978679960015242404
+      _enemy2_spritesheet_9: 5295967452218705214
+      _enemy2_spritesheet_7: -5479687539752244345
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

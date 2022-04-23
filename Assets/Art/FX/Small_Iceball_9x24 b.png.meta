@@ -183,7 +183,7 @@ TextureImporter:
       213: -9012709379061275953
     second: Small_Iceball_9x24 b_59
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -203,6 +203,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -212,8 +214,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -234,9 +236,13 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -1547,6 +1553,67 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Small_Iceball_9x24 b_19: -5580433100418390697
+      Small_Iceball_9x24 b_30: -3313059984865728457
+      Small_Iceball_9x24 b_58: -7463326901547370467
+      Small_Iceball_9x24 b_48: -4642049697853466274
+      Small_Iceball_9x24 b_52: -4641312035914554892
+      Small_Iceball_9x24 b_37: 2770722668779083850
+      Small_Iceball_9x24 b_18: 87631140963310993
+      Small_Iceball_9x24 b_16: -5792312586562018207
+      Small_Iceball_9x24 b_47: -2771836363836769087
+      Small_Iceball_9x24 b_2: -8238048698275009315
+      Small_Iceball_9x24 b_39: -4816721836115559666
+      Small_Iceball_9x24 b_42: 7849312913975459159
+      Small_Iceball_9x24 b_50: 6745468408325420891
+      Small_Iceball_9x24 b_10: -2055847101053959256
+      Small_Iceball_9x24 b_7: -1232007880516489649
+      Small_Iceball_9x24 b_53: 6056982922727633306
+      Small_Iceball_9x24 b_35: 290228851833626170
+      Small_Iceball_9x24 b_15: -8323537870353971698
+      Small_Iceball_9x24 b_59: -9012709379061275953
+      Small_Iceball_9x24 b_29: -6707718465395923321
+      Small_Iceball_9x24 b_40: -3794686509451951018
+      Small_Iceball_9x24 b_1: 5567567144273392955
+      Small_Iceball_9x24 b_13: -7007697679727977494
+      Small_Iceball_9x24 b_24: -552445426108718099
+      Small_Iceball_9x24 b_0: 6243990034040953882
+      Small_Iceball_9x24 b_28: 4296654117641657279
+      Small_Iceball_9x24 b_32: -5299290448586556001
+      Small_Iceball_9x24 b_36: 7137010085505695394
+      Small_Iceball_9x24 b_4: 7959563089566852463
+      Small_Iceball_9x24 b_34: 6258351309120441657
+      Small_Iceball_9x24 b_56: 2320437684337713176
+      Small_Iceball_9x24 b_9: -5761555372543837645
+      Small_Iceball_9x24 b_46: -5747559950113385507
+      Small_Iceball_9x24 b_51: -4107090703103778306
+      Small_Iceball_9x24 b_11: 2709586314598815483
+      Small_Iceball_9x24 b_17: 1022942277159028714
+      Small_Iceball_9x24 b_49: 3132402903867303472
+      Small_Iceball_9x24 b_27: -4138924048552760793
+      Small_Iceball_9x24 b_33: 4197591835776254953
+      Small_Iceball_9x24 b_26: 9076983734548385282
+      Small_Iceball_9x24 b_6: -5262349296827461488
+      Small_Iceball_9x24 b_25: -4331248123322206382
+      Small_Iceball_9x24 b_5: -7942689337072311620
+      Small_Iceball_9x24 b_21: 1620454542610606401
+      Small_Iceball_9x24 b_55: 1196379032291736717
+      Small_Iceball_9x24 b_44: -6852326380229079170
+      Small_Iceball_9x24 b_14: -6113982968696276459
+      Small_Iceball_9x24 b_54: -2809012893402121979
+      Small_Iceball_9x24 b_22: 4819197746392114766
+      Small_Iceball_9x24 b_57: -4011655591091465807
+      Small_Iceball_9x24 b_45: 5372384117173930497
+      Small_Iceball_9x24 b_41: 5461297030937231879
+      Small_Iceball_9x24 b_31: 6019206238267489077
+      Small_Iceball_9x24 b_12: -1767985228099706116
+      Small_Iceball_9x24 b_3: 6287895558323436058
+      Small_Iceball_9x24 b_20: -1593965945282473439
+      Small_Iceball_9x24 b_23: 899980316017005104
+      Small_Iceball_9x24 b_8: -7443137333417918645
+      Small_Iceball_9x24 b_43: -8700510566762806533
+      Small_Iceball_9x24 b_38: -4606263911961729650
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
