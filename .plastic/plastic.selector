@@ -1,4 +1,4 @@
-repository "Top Down Adventure Prototype@local"
+repository "Top-Down-Adventure@An01malia@cloud"
   path "/"
     br "/main"
     co "/main"
